@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/HowieHChen/XiaomiHelper/blob/master/img/app_icon.png?raw=true" width="25%" alt="app icon"/>
+
 # Hyper Helper  
 
 [![License](https://img.shields.io/github/license/HowieHChen/XiaomiHelper.svg?label=License)](https://github.com/HowieHChen/XiaomiHelper/blob/master/LICENSE) 
