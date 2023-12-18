@@ -22,7 +22,7 @@ HyperOS 的轻量级模块，仅适用于 HyperOS ！
 
 Lightweight modules for HyperOS only!     
 Self-use module, developed based on Xiaomi 12S Pro.      
-Mainly based on the functionality of other modules, a little original.
+Most of the functionality is based on other modules, with a small amount of originality.
 
 ## 源代码 (Source code)
 
