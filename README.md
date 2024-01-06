@@ -17,12 +17,12 @@
 ## 介绍 (Introduction)
 
 HyperOS 的轻量级模块，仅适用于 HyperOS ！     
-自用模块，基于小米 12S Pro开发。     
+自用模块，基于小米 12S Pro 和小米 Pad 6 Pro 开发。     
 主要基于其它模块的功能，少量原创。
 
 Lightweight modules for HyperOS only!     
-Self-use module, developed based on Xiaomi 12S Pro.      
-Most of the functionality is based on other modules, with a small amount of originality.
+Self-use module, developed based on Xiaomi 12S Pro and Xiaomi Pad 6 Pro.      
+Most functions are based on other modules, with a small amount of original.  
 
 ## 源代码 (Source code)
 
