@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://github.com/HowieHChen/XiaomiHelper/blob/master/img/app_icon.png?raw=true" width="25%" alt="app icon"/>
+<img src="https://github.com/HowieHChen/XiaomiHelper/blob/master/img/header.png?raw=true" width="100%" alt="Hyper Helper"/>  
 
-# Hyper Helper  
+<br>  
+<br>  
 
-[![GitHub License](https://img.shields.io/github/license/HowieHChen/XiaomiHelper)](https://github.com/HowieHChen/XiaomiHelper/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/HowieHChen/XiaomiHelper)](https://github.com/HowieHChen/XiaomiHelper/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HowieHChen/XiaomiHelper)](https://github.com/HowieHChen/XiaomiHelper/forks)
+[![GitHub License](https://img.shields.io/github/license/HowieHChen/XiaomiHelper?style=flat-square&labelColor=%23444444&color=%231F83FE)](https://github.com/HowieHChen/XiaomiHelper/blob/master/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/HowieHChen/XiaomiHelper?style=flat-square&labelColor=%23444444&color=%231F83FE)](https://github.com/HowieHChen/XiaomiHelper/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HowieHChen/XiaomiHelper?style=flat-square&labelColor=%23444444&color=%231F83FE)](https://github.com/HowieHChen/XiaomiHelper/forks)  
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Xposed-Modules-Repo/dev.lackluster.mihelper)](https://github.com/Xposed-Modules-Repo/dev.lackluster.mihelper/releases/latest) 
-[![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/dev.lackluster.mihelper)](https://github.com/Xposed-Modules-Repo/dev.lackluster.mihelper/releases/latest)
-[![GitHub Release Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/dev.lackluster.mihelper/total)](https://github.com/Xposed-Modules-Repo/dev.lackluster.mihelper/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/dev.lackluster.mihelper?include_prereleases&display_name=tag&style=flat-square&labelColor=%23444444)](https://github.com/HowieHChen/XiaomiHelper/releases/latest)
+[![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/dev.lackluster.mihelper?display_date=published_at&style=flat-square&labelColor=%23444444)](https://github.com/HowieHChen/XiaomiHelper/releases/latest)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Xposed-Modules-Repo/dev.lackluster.mihelper/total?style=flat-square&labelColor=%23444444)](https://github.com/HowieHChen/XiaomiHelper/releases/latest)  
 
 </div>
 
 ## 介绍 (Introduction/紹介)
 
-HyperOS 的轻量级模块，仅适用于 HyperOS ！     
-自用模块，基于小米 12S Pro 和小米 Pad 6 Pro 开发。     
-主要基于其它模块的功能，少量原创。
+HyperOS 的轻量级模块，专注于提升日常使用体验。  
+基于小米 15 Pro 的最新稳定版 HyperOS China 开发。  
 
 Lightweight modules for HyperOS only!     
 Self-use module, developed based on Xiaomi 12S Pro and Xiaomi Pad 6 Pro.      
@@ -28,9 +28,14 @@ HyperOS専用の軽量なモジュールです!
 Xiaomi 12S ProとXiaomi Pad 6 Proに基づいて開発された自己使用なモジュールです。
 ほとんどの機能は他のモジュールに基づいており、オリジナルな機能はわずかです。
 
-## 源代码 (Source code/ソースコード)
 
-[HowieHChen/XiaomiHelper](https://github.com/HowieHChen/XiaomiHelper)
+加入 [Telegram 频道](https://t.me/lackluster_stuff) 以反馈问题并获取内部更新。  
+Join the [Telegram channel](https://t.me/lackluster_stuff) to give feedback and get internal updates.
+
+## 仓库 (Repository)
+
+- [GitHub Repository](https://github.com/HowieHChen/XiaomiHelper)
+- [Xposed Module Repository](https://modules.lsposed.org/module/dev.lackluster.mihelper/)
 
 ## 捐赠 (Donate)
 
@@ -40,24 +45,26 @@ Xiaomi 12S ProとXiaomi Pad 6 Proに基づいて開発された自己使用な�
 
 ##### GNU General Public License v3.0
 
-[YifePlayte/MaxFreeForm](https://github.com/YifePlayte/MaxFreeForm)  
-[YifePlayte/MaxMiPad](https://github.com/YifePlayte/MaxMiPad)  
-[zerorooot/HorizontalContentextension](https://github.com/zerorooot/HorizontalContentextension)  
-[LuckyPray/DexKit](https://github.com/LuckyPray/DexKit)  
-[Simplicity-Team/WooBoxForMIUI](https://github.com/Simplicity-Team/WooBoxForMIUI)  
-[HowieHChen/WooBoxForMIUI](https://github.com/HowieHChen/WooBoxForMIUI)  
-[hosizoraru/WooBoxForMIUI](https://github.com/hosizoraru/WooBoxForMIUI)  
-[hosizoraru/StarVoyager](https://github.com/hosizoraru/StarVoyager)  
+- [「MaxFreeForm」by YifePlayte](https://github.com/YifePlayte/MaxFreeForm)
+- [「MaxMiPad」by YifePlayte](https://github.com/YifePlayte/MaxMiPad)
+- [「HorizontalContentextension」by zerorooot](https://github.com/zerorooot/HorizontalContentextension)
+- [「DexKit」by LuckyPray](https://github.com/LuckyPray/DexKit)
+- [「WooboxForMIUI」by Simplicity-Team](https://github.com/Simplicity-Team/WooBoxForMIUI)
+- [「WooboxForMIUI」by HowieHChen](https://github.com/HowieHChen/WooBoxForMIUI)
+- [「WooboxForMIUI」by hosizoraru](https://github.com/hosizoraru/WooBoxForMIUI)
+- [「StarVoyager」by hosizoraru](https://github.com/hosizoraru/StarVoyager)
 
 ##### GNU Affero General Public License v3
 
-[ReChronoRain/HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
+- [「HyperCeiler」by ReChronoRain](https://github.com/ReChronoRain/HyperCeiler)
 
-##### GNU Lesser General Public License v2.1
+##### Apache-2.0
 
-[Block-Network/blockmiui](https://github.com/Block-Network/blockmiui)  
+- [「hyperx-compose」by HowieHChen](https://github.com/HowieHChen/hyperx-compose)
+- [「miuix」by miuix-kotlin-multiplatform](https://github.com/miuix-kotlin-multiplatform/miuix)
+- [「YukiHookAPI」by HighCapable](https://github.com/HighCapable/YukiHookAPI)
+- [「TinyPinyin」by hellokaton](https://github.com/hellokaton/TinyPinyin)
 
-##### Apache-2.0  
+#### Unknown
 
-[HighCapable/YukiHookAPI](https://github.com/HighCapable/YukiHookAPI)  
-[hellokaton/TinyPinyin](https://github.com/hellokaton/TinyPinyin)
+- [「fcmfix」by kooritea](https://github.com/kooritea/fcmfix)
