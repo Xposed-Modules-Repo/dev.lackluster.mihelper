@@ -9,9 +9,9 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/HowieHChen/XiaomiHelper?style=flat-square&labelColor=%23444444&color=%231F83FE)](https://github.com/HowieHChen/XiaomiHelper/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HowieHChen/XiaomiHelper?style=flat-square&labelColor=%23444444&color=%231F83FE)](https://github.com/HowieHChen/XiaomiHelper/forks)  
 
-[![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/dev.lackluster.mihelper?include_prereleases&display_name=tag&style=flat-square&labelColor=%23444444)](https://github.com/HowieHChen/XiaomiHelper/releases/latest)
-[![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/dev.lackluster.mihelper?display_date=published_at&style=flat-square&labelColor=%23444444)](https://github.com/HowieHChen/XiaomiHelper/releases/latest)
-[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Xposed-Modules-Repo/dev.lackluster.mihelper/total?style=flat-square&labelColor=%23444444)](https://github.com/HowieHChen/XiaomiHelper/releases/latest)  
+[![GitHub Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/dev.lackluster.mihelper?include_prereleases&display_name=tag&style=flat-square&labelColor=%23444444)](https://github.com/Xposed-Modules-Repo/dev.lackluster.mihelper/releases/latest)
+[![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/dev.lackluster.mihelper?display_date=published_at&style=flat-square&labelColor=%23444444)](https://github.com/Xposed-Modules-Repo/dev.lackluster.mihelper/releases/latest)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Xposed-Modules-Repo/dev.lackluster.mihelper/total?style=flat-square&labelColor=%23444444)](https://github.com/Xposed-Modules-Repo/dev.lackluster.mihelper/releases/latest)  
 
 </div>
 
