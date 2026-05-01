@@ -17,45 +17,39 @@
 [![GitHub Release Date](https://img.shields.io/github/release-date/HowieHChen/XiaomiHelper?display_date=published_at&style=flat-square&labelColor=%23444444&label=G%20release%20date)](https://github.com/HowieHChen/XiaomiHelper/releases/latest)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/HowieHChen/XiaomiHelper/total?style=flat-square&labelColor=%23444444&label=G%20downloads)](https://github.com/HowieHChen/XiaomiHelper/releases/latest)
 
-**简体中文** | [日本語](README_JP.md) | [English](README_EN-US.md) | [Português (Brasil)](README_PT-BR.md) | [Tiếng Việt](README_VI.md)
+[简体中文](README.md) | [日本語](README_JP.md) | [English](README_EN-US.md) | **Português (Brasil)** | [Tiếng Việt](README_VI.md)
 
 </div>
 
-## 介绍
+## Introdução
 
-HyperOS 的轻量级模块，专注于提升日常使用体验。  
-基于小米 15 Pro 的最新稳定版 HyperOS China 开发。  
+Um módulo leve para o HyperOS, com foco em melhorar a experiência de uso diário.  
+Desenvolvido com base na última versão estável do HyperOS China para Xiaomi 15 Pro.  
 
-加入 [Telegram 频道](https://t.me/lackluster_stuff) 以反馈问题并获取内部更新。
+Participe do nosso canal do [Telegram](https://t.me/lackluster_stuff) para relatar problemas e receber atualizações internas.
 
-## 贡献翻译
+## Repositório
 
-我们使用了 Hosted Weblate 进行项目翻译同步，您可以在[这里](https://hosted.weblate.org/engage/hyper-helper/)为本项目贡献翻译。
-
-[![翻译状态](https://hosted.weblate.org/widget/hyper-helper/multi-auto.svg)](https://hosted.weblate.org/engage/hyper-helper/)
-
-## 仓库
-
-- [GitHub Repository](https://github.com/HowieHChen/XiaomiHelper)
+- [Repositório GitHub](https://github.com/HowieHChen/XiaomiHelper)
 - [Xposed Module Repository](https://modules.lsposed.org/module/dev.lackluster.mihelper/)
 
-## 捐赠
+## Doar
 
-[请我喝杯咖啡](https://github.com/HowieHChen/XiaomiHelper/blob/master/DONATE.md)
+[Compre-me um café](https://github.com/HowieHChen/XiaomiHelper/blob/master/DONATE.md)
 
-## 引用
+## Referências
 
 ##### GNU General Public License v3.0
 
-- [「MaxFreeForm」by YifePlayte](https://github.com/YifePlayte/MaxFreeForm)
-- [「MaxMiPad」by YifePlayte](https://github.com/YifePlayte/MaxMiPad)
-- [「WOMMO」by YifePlayte](https://github.com/YifePlayte/WOMMO)
-- [「HorizontalContentextension」by zerorooot](https://github.com/zerorooot/HorizontalContentextension)
-- [「DexKit」by LuckyPray](https://github.com/LuckyPray/DexKit)
-- [「WooboxForMIUI」by Simplicity-Team](https://github.com/Simplicity-Team/WooBoxForMIUI)
-- [「WooboxForMIUI」by HowieHChen](https://github.com/HowieHChen/WooBoxForMIUI)
-- [「WooboxForMIUI」by hosizoraru](https://github.com/hosizoraru/WooBoxForMIUI)
-- [「StarVoyager」by hosizoraru](https://github.com/hosizoraru/StarVoyager)
+- [「MaxFreeForm」por YifePlayte](https://github.com/YifePlayte/MaxFreeForm)
+- [「MaxMiPad」por YifePlayte](https://github.com/YifePlayte/MaxMiPad)
+- [「WOMMO」por YifePlayte](https://github.com/YifePlayte/WOMMO)
+- [「HorizontalContentextension」por zerorooot](https://github.com/zerorooot/HorizontalContentextension)
+- [「DexKit」por LuckyPray](https://github.com/LuckyPray/DexKit)
+- [「WooboxForMIUI」por Simplicity-Team](https://github.com/Simplicity-Team/WooBoxForMIUI)
+- [「WooboxForMIUI」por HowieHChen](https://github.com/HowieHChen/WooBoxForMIUI)
+- [「WooboxForMIUI」por hosizoraru](https://github.com/hosizoraru/WooBoxForMIUI)
+- [「StarVoyager」por hosizoraru](https://github.com/hosizoraru/StarVoyager)
 
 ##### GNU Affero General Public License v3
 
@@ -63,11 +57,11 @@ HyperOS 的轻量级模块，专注于提升日常使用体验。
 
 ##### Apache-2.0
 
-- [「hyperx-compose」by HowieHChen](https://github.com/HowieHChen/hyperx-compose)
-- [「miuix」by miuix-kotlin-multiplatform](https://github.com/miuix-kotlin-multiplatform/miuix)
-- [「KavaRef」by HighCapable](https://github.com/HighCapable/KavaRef)
-- [「TinyPinyin」by hellokaton](https://github.com/hellokaton/TinyPinyin)
+- [「hyperx-compose」por HowieHChen](https://github.com/HowieHChen/hyperx-compose)
+- [「miuix」por miuix-kotlin-multiplatform](https://github.com/miuix-kotlin-multiplatform/miuix)
+- [「KavaRef」por HighCapable](https://github.com/HighCapable/KavaRef)
+- [「TinyPinyin」por hellokaton](https://github.com/hellokaton/TinyPinyin)
 
-#### Unknown
+#### Desconhecido
 
-- [「fcmfix」by kooritea](https://github.com/kooritea/fcmfix)
+- [「fcmfix」por kooritea](https://github.com/kooritea/fcmfix)

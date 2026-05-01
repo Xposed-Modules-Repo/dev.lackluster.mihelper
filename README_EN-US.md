@@ -17,33 +17,33 @@
 [![GitHub Release Date](https://img.shields.io/github/release-date/HowieHChen/XiaomiHelper?display_date=published_at&style=flat-square&labelColor=%23444444&label=G%20release%20date)](https://github.com/HowieHChen/XiaomiHelper/releases/latest)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/HowieHChen/XiaomiHelper/total?style=flat-square&labelColor=%23444444&label=G%20downloads)](https://github.com/HowieHChen/XiaomiHelper/releases/latest)
 
-**简体中文** | [日本語](README_JP.md) | [English](README_EN-US.md) | [Português (Brasil)](README_PT-BR.md) | [Tiếng Việt](README_VI.md)
+[简体中文](README.md) | [日本語](README_JP.md) | **English** | [Português (Brasil)](README_PT-BR.md) | [Tiếng Việt](README_VI.md)
 
 </div>
 
-## 介绍
+## Introduction
 
-HyperOS 的轻量级模块，专注于提升日常使用体验。  
-基于小米 15 Pro 的最新稳定版 HyperOS China 开发。  
+A lightweight module for HyperOS, focused on enhancing the daily user experience.  
+Developed based on the latest stable version of HyperOS China for the Xiaomi 15 Pro.  
 
-加入 [Telegram 频道](https://t.me/lackluster_stuff) 以反馈问题并获取内部更新。
+Join our [Telegram](https://t.me/lackluster_stuff) channel to report issues and receive internal updates.  
 
-## 贡献翻译
+## Translate
 
-我们使用了 Hosted Weblate 进行项目翻译同步，您可以在[这里](https://hosted.weblate.org/engage/hyper-helper/)为本项目贡献翻译。
+Help us translate the app into your language. ([Hosted Weblate](https://hosted.weblate.org/engage/hyper-helper/))
 
-[![翻译状态](https://hosted.weblate.org/widget/hyper-helper/multi-auto.svg)](https://hosted.weblate.org/engage/hyper-helper/)
+[![translate](https://hosted.weblate.org/widget/hyper-helper/multi-auto.svg)](https://hosted.weblate.org/engage/hyper-helper/)
 
-## 仓库
+## Repository
 
 - [GitHub Repository](https://github.com/HowieHChen/XiaomiHelper)
 - [Xposed Module Repository](https://modules.lsposed.org/module/dev.lackluster.mihelper/)
 
-## 捐赠
+## Donate
 
-[请我喝杯咖啡](https://github.com/HowieHChen/XiaomiHelper/blob/master/DONATE.md)
+[Buy me a coffee](https://github.com/HowieHChen/XiaomiHelper/blob/master/DONATE.md)
 
-## 引用
+## References
 
 ##### GNU General Public License v3.0
 
