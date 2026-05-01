@@ -17,7 +17,7 @@
 [![GitHub Release Date](https://img.shields.io/github/release-date/HowieHChen/XiaomiHelper?display_date=published_at&style=flat-square&labelColor=%23444444&label=G%20release%20date)](https://github.com/HowieHChen/XiaomiHelper/releases/latest)
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/HowieHChen/XiaomiHelper/total?style=flat-square&labelColor=%23444444&label=G%20downloads)](https://github.com/HowieHChen/XiaomiHelper/releases/latest)
 
-**简体中文** | [日本語](https://github.com/Xposed-Modules-Repo/dev.lackluster.mihelper/blob/main/README_JP.md) | [English](https://github.com/Xposed-Modules-Repo/dev.lackluster.mihelper/blob/main/README_EN-US.md) | [Português (Brasil)](https://github.com/Xposed-Modules-Repo/dev.lackluster.mihelper/blob/main/README_PT-BR.md) | [Tiếng Việt](https://github.com/Xposed-Modules-Repo/dev.lackluster.mihelper/blob/main/README_VI.md)
+**简体中文** | [日本語](https://github.com/HowieHChen/XiaomiHelper/blob/master/README_JP.md) | [English](https://github.com/HowieHChen/XiaomiHelper/blob/master/README_EN-US.md) | [Português (Brasil)](https://github.com/HowieHChen/XiaomiHelper/blob/master/README_PT-BR.md) | [Tiếng Việt](https://github.com/HowieHChen/XiaomiHelper/blob/master/README_VI.md)
 
 </div>
 
